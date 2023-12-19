@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gpadberg
 - 👀 I’m interested in deepening my knowledge of Python, and expanding to new languages.
-- 🌱 I’m currently learning intermediate Python and introductory JavaScript, as well as React and Flutter. 
+- 🌱 I’m currently learning intermediate Python and introductory JavaScript, and exploring technologies such as React and Flutter. 
 - 📫 How to reach me: email: gpadberg@ualberta.ca
