@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @gpadberg
 - 👀 I’m interested in full-stack development and data analysis!
-- 🌱 I’m currently learning JavaScript (through React), HTML, and CSS, intermediate C and C++, and forever furthering my Python knowledge. 
-- 📫 How to reach me: email: gpadberg@ualberta.ca
+- 💻 I'm comfortable in C, C#, C++, CSS, HTML, Java, JavaScript, Python, and SQL
+- 🌱 I’m currently diving deeper into Java through Android development, and C through an operating systems course
+- 📫 How to reach me: email me! gpadberg@ualberta.ca
