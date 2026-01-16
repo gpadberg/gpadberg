@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpadberg
 - 👀 I’m interested in full-stack development and data analysis!
-- 💻 I'm comfortable in C, C#, C++, CSS, HTML, Java, JavaScript, Python, and SQL
-- 🌱 I’m currently diving deeper into Java through Android development, and C through a course in operating systems
+- 💻 I have experience with C, C#, C++, CSS, HTML, Java, JavaScript, Python, and SQL
+- 🌱 I’m currently diving deeper into data analysis and machine learning!
 - 📫 How to reach me: email me! gpadberg@ualberta.ca
