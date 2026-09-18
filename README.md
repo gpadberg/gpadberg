@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpadberg
 - 👀 I’m interested in full-stack development and data analysis!
-- 💻 I have experience with C, C#, C++, CSS, HTML, Java, JavaScript, Python, and SQL
+- 💻 I have experience with C, C#, C++, CSS, HTML, Java, JavaScript, Python, Rust, and SQL
 - 🌱 I’m currently diving deeper into data analysis and machine learning!
 - 📫 How to reach me: email me! gpadberg@ualberta.ca
